@@ -13,12 +13,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jerryryle/react-express-docker-skeleton.git"
-  },
-  "bugs": {
-    "url": "https://github.com/jerryryle/react-express-docker-skeleton/issues"
-  },
-  "author": "Jerry Ryle",
-  "license": "BSD-3-Clause",
-  "homepage": "https://github.com/jerryryle/react-express-docker-skeleton#readme"
+    "url": "https://github.com/alexbowen1118/ParticleApp"
+  }
 }
